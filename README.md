@@ -2,4 +2,9 @@
 
 ## Project Overview
 
-A mini-course where I assume the role of a Data Scientist, working on a Python project to analyze Tesla and GameStop stock revenue data. The project involves web scraping, data cleaning, and creating interactive visualizations to explore real-world data and support decision-making.
+In this project, I took on the role of a Data Scientist to explore real-world inspired data. I worked through the full data workflow, including:
+- Extracting and web scraping data with Beautiful Soup
+- Cleaning and manipulating data with Pandas
+- Visualizing data and building interactive dashboards
+
+Completed in a Jupyter Notebook, this project helped me apply Python skills to a practical scenario and create a portfolio-ready data analysis.
